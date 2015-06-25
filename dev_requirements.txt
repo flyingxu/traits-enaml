@@ -3,6 +3,7 @@
 unittest2
 ply
 coverage
+pandas
 git+http://github.com/nucleic/enaml.git#egg=enaml
 git+http://github.com/nucleic/atom.git#egg=atom
 git+http://github.com/nucleic/kiwi.git#egg=kiwisolver
