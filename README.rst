@@ -8,10 +8,10 @@ using traits models, enable/chaco components and mayavi 3D scenes.
 References
 ==========
 
-Traits https://github.com/enthought/traits
-Enable https://github.com/enthought/enable
-Mayavi https://github.com/enthought/mayavi
-Enaml  https://github.com/nucleic/enaml
+ * Enaml:  https://github.com/nucleic/enaml
+ * Traits: https://github.com/enthought/traits
+ * Enable: https://github.com/enthought/enable
+ * Mayavi: https://github.com/enthought/mayavi
 
 Status
 ======
@@ -20,6 +20,6 @@ Status
    :target: https://travis-ci.org/enthought/traits-enaml
    :alt: Build status
 
-.. image:: https://coveralls.io/repos/enthought/traits-enaml/badge.png
-   :target: https://coveralls.io/r/enthought/traits-enaml
+.. image:: http://codecov.io/github/enthought/traits-enaml/coverage.svg?branch=master
+   :target: http://codecov.io/github/enthought/traits-enaml?branch=master
    :alt: Coverage status
